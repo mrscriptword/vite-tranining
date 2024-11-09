@@ -1,0 +1,18 @@
+{
+  "name": "my-mini-app",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.0",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0",
+    "vite": "^4.0.0"
+  }
+}
